@@ -5,5 +5,5 @@
 - 📫 You can check out a collection of some of my work on my website: https://www.seejonesengineer.com/. Contact me via my website, or email me at cj@seejonesengineer.com.
 
 
-![CJ's Github Stats](https://github-readme-stats.vercel.app/api?username=cjones-87&theme=highcontrast&show_icons=true&count_private=true)
+
 
