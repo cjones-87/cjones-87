@@ -28,12 +28,12 @@
   <a href="https://github.com/cjones-87"> <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cjones-87&custom_title=CJ's%20Github%20Stats&card_width=100&show_icons=true&line_height=33.5&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=ffeb9d&bg_color=151515" alt="CJ's GitHub Stats" /> 
   </a> 
 <a href="https://github.com/cjones-87">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjones-87&custom_title=CJ's%20Most%20Used%20Languages&card_width=300&show_icons=true&line_height=27&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=ffeb9d&bg_color=151515&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjones-87&custom_title=CJ's%20Most%20Used%20Languages&card_width=300&show_icons=true&line_height=27&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=ffeb9d&bg_color=151515&theme=tokyonight" alt=`CJ's Most Used Languages`/>
 </a>
 </p>
 
 
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7jngi162r9ulpop20gz5hdyoo&cover_image=true&theme=default&bar_color=7d3ccd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=7jngi162r9ulpop20gz5hdyoo&redirect=true)
 
 
