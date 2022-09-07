@@ -3,14 +3,36 @@
    ![header](https://capsule-render.vercel.app/api?type=waving&color=0:301D42,10:553373,20:7a49a5,30:6D4194,40:A17FC0,50:C9B6DB,60:A17FC0,70:6D4194,80:7a49a5,90:553373,100:301D42&height=180&text=CJ%20Jones&fontAlignY=35&animation=scaleIn&desc=Software%20Engineer&descAlign=80&descAlignY=59&descSize=30)
  
  <!--                                                                CONTACT ME                                                                       -->
+ <h2 align="center"> Connect With Me </h2>
 <div>
    <p align="center">
-   <p align="center" style="right:103%;"><a href="https://www.seejonesengineer.com/assets/CJsSoftwareEngineeringResume.24a34476.pdf" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=resume&logoColor=white" alt="CJones"  /></a> <a href="https://www.linkedin.com/in/cjones1827/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CJones" /></a> <a href="https://www.seejonesengineer.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfoliol&logoColor=white" alt="CJones"/></a> <a href="mailto:cj@seejonesengineer.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Cjones" /></a>
-
+   <p align="center" style="right:103%;">
+      <a href="https://www.seejonesengineer.com/assets/CJsSoftwareEngineeringResume.24a34476.pdf" target="_blank">
+         <img align="center" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CJ's Resume"  />
+      </a>  
+      <a href="mailto:cj@seejonesengineer.com" target="blank">
+         <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CJ's Email" />
+      </a>
+      <a href="https://www.linkedin.com/in/cjones1827/" target="_blank">
+         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CJ's LinkedIn" />
+      </a>
+      <a href="https://www.instagram.com/seejonesengineer/" target="blank">
+         <img align="center" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="CJ's Instagram" />
+      </a>
+      <a href="https://twitter.com/cjonesengineer1" target="blank">
+         <img align="center" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white" alt="CJ's Twitter" />
+      </a> 
+      <a href="https://www.youtube.com/channel/UCIgDLvCc7d6pX1LrhgwLZMw" target="blank">
+         <img align="center" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="CJ's Youtube" />
+      </a> 
+      <a href="https://www.seejonesengineer.com/" target="_blank">
+         <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=white" alt="CJ's Portfolio"/>
+      </a>
   </p>
 </div>
  
  <!--                                                                ABOUT ME                                                                         -->
+ <h2 align="center"> About Me </h2>
 <div align="center">
   <img id='avatar' align="left" src= "https://i.imgur.com/crQOGMn.png" width='300' height='300' title='CJLogo'/>
 
@@ -25,6 +47,8 @@
 </div>
 
  <!--                                                                 Github Stats                                                                    -->
+ <h2 align="center"> Github Stats & Activity </h2>
+ <div align='center'>
 <p align='center' display='flex' justify-content='space-between'>
   <a href="https://github.com/cjones-87"> <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cjones-87&custom_title=CJ's%20Github%20Stats&card_width=100&show_icons=true&line_height=33.5&count_private=true&theme=midnight-purple" alt="CJ's GitHub Stats" /> 
   </a> 
@@ -35,7 +59,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cjones-87&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=midnight-purple" alt=`CJ's Github Streak`/>
 </a>
 </p>  
-
+</div>
 <p>
 <!-- <img src="https://imgur.com/ncX7TVk.gif" width="350">  -->
 </p>
@@ -76,6 +100,9 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
   </a>
+   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+  </a> 
   <!--
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -89,16 +116,18 @@
 <h4 align="center"> Back-End </h4>
 <div  align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   
+   </a>
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="40" height="40"/> </a>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a> 
+   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  </a>
+  
   <!--
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
