@@ -11,7 +11,7 @@
 </div>
  
  <!--                                                                ABOUT ME                                                                         -->
-<div>
+<div align="center">
   <img id='avatar' align="left" src= "https://i.imgur.com/crQOGMn.png" width='300' height='300' title='CJLogo'/>
 
   <h4 align="center" vertical-align="middle">
