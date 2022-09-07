@@ -35,6 +35,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cjones-87&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=midnight-purple" alt=`CJ's Github Streak`/>
 </a>
 </p>  
+<p>
+<!-- <img src="https://im.ezgif.com/tmp/ezgif-1-6882fba319.gif" width="700">  -->
+<img src="https://imgur.com/DqRPSrZ" width="700">
+
+</p>
+![Imgur](http://i.imgur.com/zTONrOD.jpg)
+![Imgur Image](http://imgur.com/DqRPSrZ)
 
 <h2 align="center"> Tech Stack </h2>
   
