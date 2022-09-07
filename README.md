@@ -12,7 +12,7 @@
  
  <!--                                                                ABOUT ME                                                                         -->
 <div>
-  <img id='avatar' align="left" src= "https://i.imgur.com/YvqyfW5.png" width='300' height='300' title='CJLogo'/>
+  <img id='avatar' align="left" src= "https://i.imgur.com/crQOGMn.png" width='300' height='300' title='CJLogo'/>
 
   <h4 align="center" vertical-align="middle">
     <p>I am a software engineer living in NYC. I have successfully graduated from an immersive full-time software engineering program offered by Fullstack Academy. Currently, I freelance for individuals and brands across multiple industries.
@@ -35,8 +35,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cjones-87&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=midnight-purple" alt=`CJ's Github Streak`/>
 </a>
 </p>  
+
 <p>
-<!-- <img src="https://im.ezgif.com/tmp/ezgif-1-6882fba319.gif" width="700">  -->
+<!-- <img src="https://imgur.com/ncX7TVk.gif" width="350">  -->
 </p>
 
 <h2 align="center"> Tech Stack </h2>
