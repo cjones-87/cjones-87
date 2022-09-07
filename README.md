@@ -37,11 +37,7 @@
 </p>  
 <p>
 <!-- <img src="https://im.ezgif.com/tmp/ezgif-1-6882fba319.gif" width="700">  -->
-<img src="https://imgur.com/DqRPSrZ" width="700">
-
 </p>
-![Imgur](http://i.imgur.com/zTONrOD.jpg)
-![Imgur Image](http://imgur.com/DqRPSrZ)
 
 <h2 align="center"> Tech Stack </h2>
   
