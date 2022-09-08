@@ -101,7 +101,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
   </a>
    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
   </a> 
   <!--
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -119,7 +119,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   
    </a>
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
@@ -138,6 +138,16 @@
 -->
 </div>
 
+<!--                                                                    Tools                                                                      -->
+<h4 align="center"> Tools </h4>
+<div  align="center">
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img align="center" img src="https://img.icons8.com/dusk/45/000000/github.png" width="40" height="40"/> 
+  </a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img align="center" img src="https://img.icons8.com/nolan/45/git.png" width="40" height="40"/> 
+  </a>
+</div>
 
 <!--                                                                Spotify                                                                          -->
 
