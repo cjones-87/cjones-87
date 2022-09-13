@@ -16,6 +16,9 @@
       <a href="https://www.linkedin.com/in/cjones1827/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CJ's LinkedIn" />
       </a>
+       <a href="https://www.tiktok.com/@seejonesengineer" target="blank">
+         <img align="center" src="https://img.shields.io/badge/Tiktok-69C9D0?style=for-the-badge&logo=TikTok&logoColor=white" alt="CJ's TikTok" />
+      </a>
       <a href="https://www.instagram.com/seejonesengineer/" target="blank">
          <img align="center" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="CJ's Instagram" />
       </a>
