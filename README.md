@@ -163,9 +163,17 @@
   </a>
 </div>
 
+<!--                                                               Spacer Div                                                                        -->
+<div>&nbsp;</div>
+
 <!--                                                                Spotify                                                                          -->
 
+<h2 align="center">Vibing on Spotify</h2>
+<div align='center'>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7jngi162r9ulpop20gz5hdyoo&cover_image=true&theme=default&bar_color=7d3ccd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=7jngi162r9ulpop20gz5hdyoo&redirect=true)
+
+</div>
 
 <!--                                                                FOOTER                                                                            -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:301D42,10:553373,20:7a49a5,30:6D4194,40:A17FC0,50:C9B6DB,60:A17FC0,70:6D4194,80:7a49a5,90:553373,100:301D42&height=100&reversal=true&section=footer)
