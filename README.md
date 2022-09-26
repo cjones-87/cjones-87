@@ -1,43 +1,43 @@
 <!--                                                                HEADER                                                                            -->
 
-   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:301D42,10:553373,20:7a49a5,30:6D4194,40:A17FC0,50:C9B6DB,60:A17FC0,70:6D4194,80:7a49a5,90:553373,100:301D42&height=180&text=CJ%20Jones&fontAlignY=35&animation=scaleIn&desc=Software%20Engineer&descAlign=80&descAlignY=59&descSize=30)
- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:301D42,10:553373,20:7a49a5,30:6D4194,40:A17FC0,50:C9B6DB,60:A17FC0,70:6D4194,80:7a49a5,90:553373,100:301D42&height=180&text=CJ%20Jones&fontAlignY=35&animation=scaleIn&desc=Software%20Engineer&descAlign=80&descAlignY=59&descSize=30)
+
  <!--                                                                CONTACT ME                                                                       -->
  <h2 align="center"> Connect With Me </h2>
 <div>
    <p align="center">
    <p align="center" style="right:103%;">
       <a href="https://www.seejonesengineer.com/assets/CJsSoftwareEngineeringResume.24a34476.pdf" target="_blank">
-         <img align="center" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CJ's Resume"  />
+         <img align="center" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CJ"s Resume"  />
       </a>  
       <a href="mailto:cj@seejonesengineer.com" target="blank">
-         <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CJ's Email" />
+         <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CJ"s Email" />
       </a>
       <a href="https://www.linkedin.com/in/cjones1827/" target="_blank">
-         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CJ's LinkedIn" />
+         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CJ"s LinkedIn" />
       </a>
        <a href="https://www.tiktok.com/@seejonesengineer" target="blank">
-         <img align="center" src="https://img.shields.io/badge/Tiktok-69C9D0?style=for-the-badge&logo=TikTok&logoColor=white" alt="CJ's TikTok" />
+         <img align="center" src="https://img.shields.io/badge/Tiktok-69C9D0?style=for-the-badge&logo=TikTok&logoColor=white" alt="CJ"s TikTok" />
       </a>
       <a href="https://www.instagram.com/seejonesengineer/" target="blank">
-         <img align="center" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="CJ's Instagram" />
+         <img align="center" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="CJ"s Instagram" />
       </a>
       <a href="https://twitter.com/cjonesengineer1" target="blank">
-         <img align="center" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white" alt="CJ's Twitter" />
+         <img align="center" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white" alt="CJ"s Twitter" />
       </a> 
       <a href="https://www.youtube.com/channel/UCIgDLvCc7d6pX1LrhgwLZMw" target="blank">
-         <img align="center" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="CJ's Youtube" />
+         <img align="center" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="CJ"s Youtube" />
       </a> 
       <a href="https://www.seejonesengineer.com/" target="_blank">
-         <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=white" alt="CJ's Portfolio"/>
+         <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=white" alt="CJ"s Portfolio"/>
       </a>
   </p>
 </div>
  
  <!--                                                                ABOUT ME                                                                         -->
  <h2 align="center"> About Me </h2>
-<div align="center" text-align='center'>
-  <img id='avatar' align="left" src= "https://i.imgur.com/crQOGMn.png" width='300' height='300' title='CJLogo'/>
+<div align="center" text-align="center">
+  <img id="avatar" align="left" src= "https://i.imgur.com/crQOGMn.png" width="300" height="300" title="CJLogo"/>
 
   <h4 align="center" vertical-align="middle">
     <p align="center">I am a software engineer living in NYC. I have successfully graduated from an immersive full-time software engineering program offered by Fullstack Academy. Currently, I freelance for individuals and brands across multiple industries.
@@ -53,7 +53,7 @@
  <h2 align="center"> Github Stats & Activity </h2>
  <div align='center'>
 <p align='center' display='flex' justify-content='space-between'>
-  <a href="https://github.com/cjones-87"> <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cjones-87&custom_title=CJ's%20Github%20Stats&card_width=100&show_icons=true&line_height=33.5&count_private=true&theme=midnight-purple" alt="CJ's GitHub Stats" /> 
+  <a href="https://github.com/cjones-87"> <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cjones-87&custom_title=CJ's%20Github%20Stats&card_width=100&show_icons=true&line_height=40&count_private=true&theme=midnight-purple" alt="CJ's GitHub Stats" /> 
   </a> 
 <a href="https://github.com/cjones-87">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjones-87&custom_title=CJ's%20Most%20Used%20Languages&theme=midnight-purple" alt=`CJ's Most Used Languages`/>
@@ -66,12 +66,12 @@
 <p>
 <!-- <img src="https://imgur.com/ncX7TVk.gif" width="350">  -->
 </p>
-
+<hr>
 <h2 align="center"> Tech Stack </h2>
-  
-<!--                                                                LANGUAGES                                                                          -->
-<h4 align="center"> Languages </h4>
-<div  align="center">
+
+<!--                         PROFICIENT LANGUAGES                        -->
+<h4 align="center">Proficient Languages</h4>
+<div  align="center" >
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -82,15 +82,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>  
 </div>
-  <!--
+<hr>
+<!--                         FAMILIAR LANGUAGES                        -->
+<h4 align="center">Familiar Languages</h4>
+<h6 align="center">Read Only</h6>
+<div align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
--->
-  
+</div>
+
+<hr>
 <!--                                                                FRONT-END                                                                         -->
 <h4 align="center"> Front-End </h4>
 <div  align="center">
@@ -116,7 +121,7 @@
     <img src="https://img.icons8.com/wired/344/ffffff/babel.png" alt="babel" width="40" height="40" />
   </a> 
 </div>
-
+<hr>
 <!--                                                                    BACKEND                                                                      -->
 <h4 align="center"> Back-End </h4>
 <div  align="center">
@@ -142,38 +147,39 @@
   </a>
 -->
 </div>
-
+<hr>
 <!--                                                                    Tools                                                                      -->
 <h4 align="center"> Tools </h4>
 <div  align="center">
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png" alt="netlify" width="30" height="25"/> 
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" alt="netlify" width="30" height="20" /> 
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" img src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/344/ffffff/external-glyph-shapes-tanah-basah-glyph-tanah-basah-69.png" width="35" height="35" alt='vercel'/> 
+    <img align="center" img src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/344/ffffff/external-glyph-shapes-tanah-basah-glyph-tanah-basah-69.png" width="35" height="35" alt="vercel"/> 
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" img src="https://img.icons8.com/dusk/45/000000/github.png" width="40" height="40" alt='github'/> 
+    <img align="center" img src="https://img.icons8.com/dusk/45/000000/github.png" width="40" height="40" alt="github"/> 
   </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" img src="https://img.icons8.com/nolan/45/git.png" width="40" height="40" alt='git'/> 
+    <img align="center" img src="https://img.icons8.com/nolan/45/git.png" width="40" height="40" alt="git"/> 
   </a>
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" img src="https://img.icons8.com/nolan/45/heroku.png" width="40" height="40" alt='heroku'/> 
+    <img align="center" img src="https://img.icons8.com/nolan/45/heroku.png" width="40" height="40" alt="heroku"/> 
   </a>
 </div>
-
+<hr>
 <!--                                                               Spacer Div                                                                        -->
 <div>&nbsp;</div>
 
 <!--                                                                Spotify                                                                          -->
 
 <h2 align="center">Vibing on Spotify</h2>
-<div align='center'>
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7jngi162r9ulpop20gz5hdyoo&cover_image=true&theme=default&bar_color=7d3ccd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=7jngi162r9ulpop20gz5hdyoo&redirect=true)
 
 </div>
 
 <!--                                                                FOOTER                                                                            -->
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:301D42,10:553373,20:7a49a5,30:6D4194,40:A17FC0,50:C9B6DB,60:A17FC0,70:6D4194,80:7a49a5,90:553373,100:301D42&height=100&reversal=true&section=footer)
