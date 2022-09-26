@@ -66,7 +66,7 @@
 <p>
 <!-- <img src="https://imgur.com/ncX7TVk.gif" width="350">  -->
 </p>
-<hr>
+
 <h2 align="center"> Tech Stack </h2>
 
 <!--                         PROFICIENT LANGUAGES                        -->
