@@ -11,19 +11,19 @@
          <img align="center" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CJ"s Resume"  />
       </a>  
       <a href="mailto:cj@seejonesengineer.com" target="blank">
-         <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CJ"s Email" />
+         <img align="center" src="https://img.shields.io/badge/Email-d4af37?style=for-the-badge&logo=gmail&logoColor=white" alt="CJ"s Email" />
       </a>
       <a href="https://www.linkedin.com/in/cjones1827/" target="_blank">
-         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CJ"s LinkedIn" />
+         <img align="center" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="CJ"s LinkedIn" />
       </a>
        <a href="https://www.tiktok.com/@seejonesengineer" target="blank">
-         <img align="center" src="https://img.shields.io/badge/Tiktok-69C9D0?style=for-the-badge&logo=TikTok&logoColor=white" alt="CJ"s TikTok" />
+         <img align="center" src="https://img.shields.io/badge/Tiktok-00f2ea?style=for-the-badge&logo=TikTok&logoColor=white" alt="CJ"s TikTok" />
       </a>
       <a href="https://www.instagram.com/seejonesengineer/" target="blank">
-         <img align="center" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="CJ"s Instagram" />
+         <img align="center" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" alt="CJ"s Instagram" />
       </a>
       <a href="https://twitter.com/cjonesengineer1" target="blank">
-         <img align="center" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white" alt="CJ"s Twitter" />
+         <img align="center" src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" alt="CJ"s Twitter" />
       </a> 
       <a href="https://www.youtube.com/channel/UCIgDLvCc7d6pX1LrhgwLZMw" target="blank">
          <img align="center" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="CJ"s Youtube" />
