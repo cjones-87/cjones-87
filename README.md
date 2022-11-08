@@ -49,7 +49,7 @@
   </h4>
 </div>
 
- <!--                                                                 Github Stats                                                                    -->
+ <!--                                                                 Github Stats & Activity                                                                -->
  <h2 align="center"> Github Stats & Activity </h2>
  <div align='center'>
 <p align='center' display='flex' justify-content='space-between'>
