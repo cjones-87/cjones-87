@@ -40,7 +40,7 @@
   <img id="avatar" align="left" src= "https://i.imgur.com/crQOGMn.png" width="300" height="300" title="CJLogo"/>
 
   <h4 align="center" vertical-align="middle">
-    <p align="center">I am a software engineer living in NYC. I have successfully graduated from an immersive full-time software engineering program offered by Fullstack Academy. Currently, I freelance for individuals and brands across multiple industries.
+    <p align="center">I am a software engineer living in NYC. I have successfully graduated from an immersive full-time software engineering program offered by Fullstack Academy. Currently, I freelance for individuals, brands, and companies across multiple industries.
     </p>
     <p align="center">I have a passion for using technology to create intuitive & visually stimulating UI for enhanced user experiences. This, coupled with a penchant for furthering my knowledge and SWE skillset, gives me a love of combining existing best practices with innovative solutions to solve client & company needs.
     </p>
