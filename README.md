@@ -63,9 +63,6 @@
 </a>
 </p>  
 </div>
-<p>
-<!-- <img src="https://imgur.com/ncX7TVk.gif" width="350">  -->
-</p>
 
 <h2 align="center"> Tech Stack </h2>
 
