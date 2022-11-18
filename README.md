@@ -129,7 +129,7 @@
    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/wired/344/ffffff/babel.png" alt="babel" width="40" height="40" />
   </a> 
-  <a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="three js" width="40" height="40" />
   </a>
 </div>
