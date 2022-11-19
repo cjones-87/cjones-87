@@ -8,7 +8,7 @@
    <p align="center">
    <p align="center" style="right:103%;">
       <a href="https://www.seejonesengineer.com/assets/CJsSoftwareEngineeringResume.24a34476.pdf" target="_blank">
-         <img align="center" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CJ"s Resume"  />
+         <img align="center" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CJ's Resume"  />
       </a>  
       <a href="https://www.linkedin.com/in/cjones1827/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="CJ"s LinkedIn" />
