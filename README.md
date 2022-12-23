@@ -44,7 +44,7 @@
     </p>
     <p align="center">I have a passion for using technology to create intuitive & visually stimulating UI for enhanced user experiences. This, coupled with a penchant for furthering my knowledge and SWE skillset, gives me a love of combining existing best practices with innovative solutions to solve client & company needs.
     </p>
-    <p align="center">I enjoy working with libraries/frameworks such as React & React Native Expo. I’m looking to grow in my software engineer journey by transitioning from freelance. I plan to start a career at a company where communication, passion, and innovation go hand in hand. I am also currently studying data structures & algorithms. I’m looking to collaborate on projects on varying topics. One of my strongest passions is entertainment, so I would love to collaborate with individuals or groups on anything music, tv/movie, or gaming-related.
+    <p align="center">I enjoy working with libraries/frameworks such as React & React Native Expo. I’m looking to grow in my software engineer journey by transitioning from freelance. I plan to start a career at a company where communication, passion, and innovation go hand in hand. I am also currently studying data structures & algorithms. I’m looking to collaborate on projects on varying topics. One of my strongest passions is entertainment, so I would love to collaborate with individuals or groups on anything music, tv/movie, 3D, or gaming-related.
     </p>
   </h4>
 </div>
