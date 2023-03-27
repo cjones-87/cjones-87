@@ -37,21 +37,43 @@
  <!--                                                                ABOUT ME                                                                         -->
  <h2 align="center"> About Me </h2>
 <div align="center" text-align="center">
-  <!-- <img id="avatar" align="left" src= "https://i.imgur.com/crQOGMn.png" width="300" height="300" title="CJLogo"/> -->
+  <img id="avatar" align="center" src= "https://i.imgur.com/crQOGMn.png" width="300" height="300" title="CJLogo"/>
 
   <h4 align="center" vertical-align="middle">
-    <p align="center">I am a software engineer living in NYC. I have successfully graduated from an immersive full-time software engineering program offered by Fullstack Academy. Currently, I freelance for individuals, brands, and companies across multiple industries.
+    <p align="center"> As a software engineer based in NYC, I have a proven track record of
+        success in the industry. I honed my skills at Fullstack Academy, an
+        immersive and rigorous software engineering program. Since then, I have
+        been freelancing for individuals and brands in multiple industries,
+        delivering high-quality solutions that enhance user experiences.
     </p>
-    <p align="center">I have a passion for using technology to create intuitive & visually stimulating UI for enhanced user experiences. This, coupled with a penchant for furthering my knowledge and SWE skillset, gives me a love of combining existing best practices with innovative solutions to solve client & company needs.
+    <p align="center"> My passion for technology is matched by my commitment to lifelong
+        learning. I constantly seek out new and innovative ways to solve
+        problems and improve my software engineering skillset. I believe in
+        combining best practices with cutting-edge solutions to create optimal
+        results for my clients and their customers.
     </p>
-    <!-- <p align="center">I enjoy working with libraries/frameworks such as React & React Native Expo. I’m looking to grow in my software engineer journey by transitioning from freelance. I plan to start a career at a company where communication, passion, and innovation go hand in hand. I am also currently studying data structures & algorithms. I’m looking to collaborate on projects on varying topics. One of my strongest passions is entertainment, so I would love to collaborate with individuals or groups on anything music, tv/movie, 3D, or gaming-related.
-    </p> -->
+    <p align="center"> My expertise lies in developing intuitive and visually stimulating user
+        interfaces, leveraging libraries and frameworks such as React and React
+        Native Expo. However, I am always looking for new opportunities to grow
+        and learn. That's why I'm seeking a career transition from freelance to
+        working at a company where communication, passion, and innovation are at
+        the forefront.
+    </p>
+     <p align="center"> Currently, I am actively seeking collaborations with others in the
+        industry. I am studying data structures and algorithms to further
+        improve my skills, and I am excited to work on projects that cover a
+        wide range of topics. As someone with a strong passion for
+        entertainment, I would love to collaborate on projects related to music,
+        TV/movies, or gaming. I am confident in my ability to bring value to any
+        team or project, and I look forward to future opportunities to make an
+        impact in the software engineering field.
+    </p>
   </h4>
 </div>
 
 <!--Codewars Activity-->
 <div align="center" >
-  <h2>Codewars DSAs</h2>
+  <h2>Codewars Data Structure & Algorithm Activity</h2>
   <img src="https://www.codewars.com/users/cjones-87/badges/large" />
 </div>
 
