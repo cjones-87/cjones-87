@@ -217,6 +217,191 @@
 <!--                                                               Spacer Div                                                                        -->
 <div>&nbsp;</div>
 
+<!-- Featured Projects --->
+
+<div align="center">
+<h2>Personal Projects</h2>
+ <table style="width: 100%">
+        <tr>
+          <td style="width: 50%; vertical-align: top">
+            <h3 align="center" color="white">See Jones Engineer</h3>
+            <div align="center">
+              <a href="https://www.seejonesengineer.com/">
+                <img
+                  src="photos/PortfolioPic.svg"
+                  style="width: 100%"
+                />
+              </a>
+              <br /><br />
+              <p>
+                <a
+                  href="https://github.com/cjones-87/seejonesprojects"
+                  target="_blank"
+                >
+                  <img
+                    src="https://img.shields.io/badge/Repo-cornflowerblue?style=for-the-badge&logo=github"
+                  />
+                </a>
+                <a href="https://www.seejonesengineer.com" target="_blank">
+                  <img
+                    src="https://img.shields.io/badge/-website-indigo?style=for-the-badge"
+                  />
+                </a>
+              </p>
+              <p>
+                <strong
+                  >Javascript, React, PrimeReact, Three.js, HTML5, CSS3</strong
+                >
+              </p>
+              <p>
+                I developed a fully responsive mobile-first portfolio website to
+                showcase my UX/UI talents and personal projects. The website
+                features a user-friendly platform that allows users to browse my
+                works and reach out to schedule meetings or work. The
+                technologies used to design and construct the website's
+                front-end were carefully chosen to ensure a responsive,
+                efficient, and intuitive UI/UX. I integrated JavaScript, React,
+                PrimeReact, and Three.js to create an interactive and visually
+                appealing website that engages users and meets their needs.
+              </p>
+            </div>
+          </td>
+          <td style="width: 50%; vertical-align: top">
+            <h3 align="center" color="white">Hypnotiq 2.0</h3>
+            <div align="center">
+              <a href="https://youtube.com/shorts/GFI7VYjWjaY">
+                <img
+                  src="photos/HypnotiqMusiq2.svg"
+                  style="width: 100%"
+                />
+              </a>
+              <br /><br />
+              <p>
+                <a
+                  href="https://github.com/cjones-87/Hypnotiq2.0"
+                  target="_blank"
+                >
+                  <img
+                    src="https://img.shields.io/badge/Repo-cornflowerblue?style=for-the-badge&logo=github"
+                  />
+                </a>
+                <a
+                  href="https://youtube.com/shorts/GFI7VYjWjaY"
+                  target="_blank"
+                >
+                  <img
+                    src="https://img.shields.io/badge/-website-indigo?style=for-the-badge"
+                  />
+                </a>
+              </p>
+              <p>
+                <strong>React Native, Expo, Firebase, Cloud Firestore</strong>
+              </p>
+              <p>
+                Hypnotiq 2.0 is a music player app that allows users to create,
+                edit and delete music playlists, load music from their local
+                device storage, and stream audio to help with sleep and study
+                patterns. The app uses the latest industry technologies such as
+                Javascript, React, CSS, Firebase, and Cloud Firestore to provide
+                seamless audio playback and allow users complete control. In
+                future iterations, the database design will be restructured to
+                optimize functionality, and the app will include new features
+                such as the ability to share playlists with others, comment on
+                shared playlists, and direct message other users for admins and
+                artists whose work has been shared.
+              </p>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top">
+            <h3 align="center" color="white">IYKYK</h3>
+            <div align="center">
+              <a href="https://iykyk-two.vercel.app/">
+                <img
+                  src="photos/IYKYKmath.svg"
+                  style="width: 100%"
+                />
+              </a>
+              <br /><br />
+              <p>
+                <a href="https://github.com/cjones-87/iykyk" target="_blank">
+                  <img
+                    src="https://img.shields.io/badge/Repo-cornflowerblue?style=for-the-badge&logo=github"
+                  />
+                </a>
+                <a href="https://iykyk-two.vercel.app/" target="_blank">
+                  <img
+                    src="https://img.shields.io/badge/-website-indigo?style=for-the-badge"
+                  />
+                </a>
+              </p>
+              <p><strong>TypeScript, React, HTML5, CSS3, Three.js</strong></p>
+              <p>
+                IYKYK is a multiple choice quiz game where users can choose
+                their quiz category preferences from a menu of options.
+                Questions and answers are aggregated from an external API then
+                formatted to meet the game's design. For the front-end of IYKYK,
+                I used TypeScript, React, HTML5, CSS3, and Three.js
+                to create visually appealing 3D animations and rendering. The
+                game's navigation bar will be updated to include multi-nested
+                menus and submenus, and the stretch goals include adding
+                additional quiz topics and types, diversifying the categories,
+                and implementing true/false questions. One of the main
+                challenges I faced was learning the intricacies
+                of TypeScript, but the syntactical sugar provided by TypeScript
+                was extremely helpful in debugging. Overall, IYKYK was created
+                as an experiment to enhance my understanding of
+                TypeScript, 3D animations, and rendering.
+              </p>
+            </div>
+          </td>
+          <td style="width: 50%; vertical-align: top">
+            <h3 align="center" color="white">Computer Love</h3>
+            <div align="center">
+              <a href="https://youtu.be/fmAzDaepIsM">
+                <img
+                  src="photos/ComputerLoveRegistration.svg"
+                  style="width: 100%"
+                />
+              </a>
+              <br /><br />
+              <p>
+                <a href="https://github.com/system-obsessed" target="_blank">
+                  <img
+                    src="https://img.shields.io/badge/Repo-cornflowerblue?style=for-the-badge&logo=github"
+                  />
+                </a>
+                <a href="https://youtu.be/fmAzDaepIsM" target="_blank">
+                  <img
+                    src="https://img.shields.io/badge/-website-indigo?style=for-the-badge"
+                  />
+                </a>
+              </p>
+              <p>
+                <strong
+                  >React Native Expo, Redux, Express, PostgreSQL,
+                  Node.js</strong
+                >
+              </p>
+              <p>
+                Computer Love is a mobile dating/networking application for
+                users in the tech industry. The MVP allows users to
+                register/login and swipe yes or no to dating/networking based on
+                their preferences. The back-end is built with Node.js,
+                PostgreSQL, Sequelize, and Express. Stretch goals include
+                allowing users to deactivate/reactivate their accounts and
+                report inappropriate behavior. Future plans include adding
+                multiple photos and location-based matching. One of the main
+                challenges was integrating the front-end with the back-end and
+                designing/implementing the user matching/swiping logic.
+              </p>
+            </div>
+          </td>
+        </tr>
+      </table>
+</div>
+
 <!--                                                                Spotify                                                                          -->
 
 <h2 align="center">Vibing on Spotify</h2>
