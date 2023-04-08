@@ -399,6 +399,127 @@
             </div>
           </td>
         </tr>
+         <tr>
+          <td style="width: 50%; vertical-align: top">
+            <h3 align="center" color="white">Hypnotiq</h3>
+            <div align="center">
+              <a href="https://youtu.be/JAFO_AROg34">
+                <img
+                  src="photos/HypnotiqBabyJams.svg"
+                  style="width: 100%"
+                />
+              </a>
+              <br /><br />
+              <p>
+                <a
+                  href="https://github.com/cjones-87/hypnotiq"
+                  target="_blank"
+                >
+                  <img
+                    src="https://img.shields.io/badge/Repo-cornflowerblue?style=for-the-badge&logo=github"
+                  />
+                </a>
+                <a href="https://youtu.be/JAFO_AROg34" target="_blank">
+                  <img
+                    src="https://img.shields.io/badge/-website-indigo?style=for-the-badge"
+                  />
+                </a>
+              </p>
+              <p><strong>React Native, Expo</strong>
+              </p>
+              <p>Hypnotiq is a mobile application that provides users with a list of sound categories to choose from, allowing them to select different options within each category to facilitate studying and sleep habits. The MVP includes five related facts for each of the five senses and an additional random fact for each category. Hypnotiq was constructed using React Native and Expo for the front-end. Future goals include making the app more inclusive, adding more music genres, and allowing users to create, save, and share playlists with others, as well as comment on shared playlists.</p>
+            </div>
+          </td>
+          <td style="width: 50%; vertical-align: top">
+            <h3 align="center" color="white">Boundz Bookstore</h3>
+            <div align="center">
+              <a href="https://boundz-bookstore.vercel.app/">
+                <img
+                  src="photos/BoundzBookstore.svg"
+                  style="width: 100%"
+                />
+              </a>
+              <br /><br />
+              <p>
+                <a
+                  href="https://github.com/cjones-87/Boundz"
+                  target="_blank"
+                >
+                  <img
+                    src="https://img.shields.io/badge/Repo-cornflowerblue?style=for-the-badge&logo=github"
+                  />
+                </a>
+                <a
+                  href="https://boundz-bookstore.vercel.app/"
+                  target="_blank"
+                >
+                  <img
+                    src="https://img.shields.io/badge/-website-indigo?style=for-the-badge"
+                  />
+                </a>
+              </p>
+              <p><strong>React, Redux, Node.js, PostgreSQL, Sequelize, Express, Material UI, HTML5, CSS3</strong>
+              </p>
+              <p>Boundz Bookstore is an eCommerce bookstore that allows users and administrators to purchase books, modify purchase information, and access order history. The site features a persistent cart, new user registration functionality, and CRUD abilities for user and administrative accounts. The front-end was built using React, Redux, Material UI, HTML5, and CSS3, while the back-end was built using Node.js, PostgreSQL, Sequelize, and Express. The site is currently deployed on Vercel, but was previously hosted on Heroku. This project was completed with my team <strong>RobotsRUs</strong>.</p>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top">
+            <h3 align="center" color="white">Idle Clicker</h3>
+            <div align="center">
+              <a href="https://mugnificent-coffee-clicker.vercel.app/">
+                <img
+                  src="photos/IdleClicker.svg"
+                  style="width: 100%"
+                />
+              </a>
+              <br /><br />
+              <p>
+                <a href="https://github.com/cjones-87/mugnificentCoffeeClicker" target="_blank">
+                  <img
+                    src="https://img.shields.io/badge/Repo-cornflowerblue?style=for-the-badge&logo=github"
+                  />
+                </a>
+                <a href="https://mugnificent-coffee-clicker.vercel.app/" target="_blank">
+                  <img
+                    src="https://img.shields.io/badge/-website-indigo?style=for-the-badge"
+                  />
+                </a>
+              </p>
+              <p><strong>HTML5, CSS3, JavaScript</strong>
+              </p>
+              <p>Idle Clicker game where players click on a coffee emoji to increment a counter that displays the quantity of coffee they possess. They can use coffee to purchase coffee-producing devices such as percolators and espresso machines. The player accumulates coffee passively based on the number and type of coffee producers in stock. The game features a progression system where new producers are unlocked successively as they accumulate more coffee, and the price of each producer steadily increases.</p>
+            </div>
+          </td>
+          <td style="width: 50%; vertical-align: top">
+            <h3 align="center" color="white">Guessing Game</h3>
+            <div align="center">
+              <a href="https://guessing-game-blue.vercel.app/">
+                <img
+                  src="photos/GuessingGame.svg"
+                  style="width: 100%"
+                />
+              </a>
+              <br /><br />
+              <p>
+                <a href="https://github.com/cjones-87/guessingGame" target="_blank">
+                  <img
+                    src="https://img.shields.io/badge/Repo-cornflowerblue?style=for-the-badge&logo=github"
+                  />
+                </a>
+                <a href="https://guessing-game-blue.vercel.app/" target="_blank">
+                  <img
+                    src="https://img.shields.io/badge/-website-indigo?style=for-the-badge"
+                  />
+                </a>
+              </p>
+              <p><strong>HTML5, CSS3, JavaScript</strong>
+              </p>
+              <p>A guessing game application where the user has limited guesses to guess a number between 1 and 100, with the aid of a hint button and a reset button. The game was designed as an instructional introduction to DOM manipulation, and all code and design elements were created by me from scratch. This project utilized HTML5, CSS3, and client-side JavaScript.</p>
+            </div>
+          </td>
+        </tr>
       </table>
 </div>
 
