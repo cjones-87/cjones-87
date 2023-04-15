@@ -1,4 +1,5 @@
 <!--                                                                HEADER                                                                            -->
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:301D42,10:553373,20:7a49a5,30:6D4194,40:A17FC0,50:C9B6DB,60:A17FC0,70:6D4194,80:7a49a5,90:553373,100:301D42&height=180&text=CJ%20Jones&fontAlignY=35&animation=scaleIn&desc=Software%20Engineer&descAlign=80&descAlignY=59&descSize=30)
 
@@ -394,7 +395,7 @@
                 report inappropriate behavior. Future plans include adding
                 multiple photos and location-based matching. One of the main
                 challenges was integrating the front-end with the back-end and
-                designing/implementing the user matching/swiping logic.
+                designing/implementing the user matching/swiping logic. This project was completed with my team <strong>System Obsessed</strong>.
               </p>
             </div>
           </td>
@@ -464,62 +465,6 @@
             </div>
           </td>
         </tr>
-        <tr>
-          <td style="width: 50%; vertical-align: top">
-            <h3 align="center" color="white">Idle Clicker</h3>
-            <div align="center">
-              <a href="https://mugnificent-coffee-clicker.vercel.app/">
-                <img
-                  src="photos/IdleClicker.svg"
-                  style="width: 100%"
-                />
-              </a>
-              <br /><br />
-              <p>
-                <a href="https://github.com/cjones-87/mugnificentCoffeeClicker" target="_blank">
-                  <img
-                    src="https://img.shields.io/badge/Repo-cornflowerblue?style=for-the-badge&logo=github"
-                  />
-                </a>
-                <a href="https://mugnificent-coffee-clicker.vercel.app/" target="_blank">
-                  <img
-                    src="https://img.shields.io/badge/-website-indigo?style=for-the-badge"
-                  />
-                </a>
-              </p>
-              <p><strong>HTML5, CSS3, JavaScript</strong>
-              </p>
-              <p>Idle Clicker game where players click on a coffee emoji to increment a counter that displays the quantity of coffee they possess. They can use coffee to purchase coffee-producing devices such as percolators and espresso machines. The player accumulates coffee passively based on the number and type of coffee producers in stock. The game features a progression system where new producers are unlocked successively as they accumulate more coffee, and the price of each producer steadily increases.</p>
-            </div>
-          </td>
-          <td style="width: 50%; vertical-align: top">
-            <h3 align="center" color="white">Guessing Game</h3>
-            <div align="center">
-              <a href="https://guessing-game-blue.vercel.app/">
-                <img
-                  src="photos/GuessingGame.svg"
-                  style="width: 100%"
-                />
-              </a>
-              <br /><br />
-              <p>
-                <a href="https://github.com/cjones-87/guessingGame" target="_blank">
-                  <img
-                    src="https://img.shields.io/badge/Repo-cornflowerblue?style=for-the-badge&logo=github"
-                  />
-                </a>
-                <a href="https://guessing-game-blue.vercel.app/" target="_blank">
-                  <img
-                    src="https://img.shields.io/badge/-website-indigo?style=for-the-badge"
-                  />
-                </a>
-              </p>
-              <p><strong>HTML5, CSS3, JavaScript</strong>
-              </p>
-              <p>A guessing game application where the user has limited guesses to guess a number between 1 and 100, with the aid of a hint button and a reset button. The game was designed as an instructional introduction to DOM manipulation, and all code and design elements were created by me from scratch. This project utilized HTML5, CSS3, and client-side JavaScript.</p>
-            </div>
-          </td>
-        </tr>
       </table>
 </div>
 
@@ -535,3 +480,5 @@
 <!--                                                                FOOTER                                                                            -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:301D42,10:553373,20:7a49a5,30:6D4194,40:A17FC0,50:C9B6DB,60:A17FC0,70:6D4194,80:7a49a5,90:553373,100:301D42&height=100&reversal=true&section=footer)
+
+</div>
