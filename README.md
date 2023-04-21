@@ -3,10 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:301D42,10:553373,20:7a49a5,30:6D4194,40:A17FC0,50:C9B6DB,60:A17FC0,70:6D4194,80:7a49a5,90:553373,100:301D42&height=180&text=CJ%20Jones&fontAlignY=35&animation=scaleIn&desc=Software%20Engineer&descAlign=80&descAlignY=59&descSize=30)
 
-<!-- Profile Views -->
-
-![](https://komarev.com/ghpvc/?username=cjones-87&color=4b0082&style=for-the-badge&label=PROFILE+VISITORS)
-
  <!--                                                                CONTACT ME                                                                       -->
  <h2 align="center"> Contact Me </h2>
 <div>
@@ -480,6 +476,10 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7jngi162r9ulpop20gz5hdyoo&cover_image=true&theme=default&bar_color=7d3ccd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=7jngi162r9ulpop20gz5hdyoo&redirect=true)
 
 </div>
+
+<!-- Profile Views -->
+
+![](https://komarev.com/ghpvc/?username=cjones-87&color=4b0082&style=for-the-badge&label=PROFILE+VISITORS)
 
 <!--                                                                FOOTER                                                                            -->
 
