@@ -3,6 +3,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:301D42,10:553373,20:7a49a5,30:6D4194,40:A17FC0,50:C9B6DB,60:A17FC0,70:6D4194,80:7a49a5,90:553373,100:301D42&height=180&text=CJ%20Jones&fontAlignY=35&animation=scaleIn&desc=Software%20Engineer&descAlign=80&descAlignY=59&descSize=30)
 
+<!-- Profile Views -->
+
+![](https://komarev.com/ghpvc/?username=cjones-87&color=4b0082&style=for-the-badge&label=PROFILE+VISITORS)
+
  <!--                                                                CONTACT ME                                                                       -->
  <h2 align="center"> Contact Me </h2>
 <div>
@@ -21,7 +25,7 @@
          <img align="center" src="https://img.shields.io/badge/Tiktok-00f2ea?style=for-the-badge&logo=TikTok&logoColor=white" alt="CJ"s TikTok" />
       </a>
       <a href="https://www.instagram.com/seejonesengineer/" target="blank">
-         <img align="center" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" alt="CJ"s Instagram" />
+         <img align="center" src="https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=Instagram&logoColor=white" alt="CJ"s Instagram" />
       </a>
       <a href="https://twitter.com/cjonesengineer1" target="blank">
          <img align="center" src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" alt="CJ"s Twitter" />
