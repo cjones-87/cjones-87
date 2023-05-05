@@ -81,7 +81,9 @@
 
 <h2 align="center">Vibing on Spotify</h2>
 <div align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7jngi162r9ulpop20gz5hdyoo&cover_image=true&theme=default&bar_color=7d3ccd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=7jngi162r9ulpop20gz5hdyoo&redirect=true)
+
 </div>
 <hr>
 
