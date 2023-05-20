@@ -8,16 +8,16 @@
 <div>
    <p align="center">
    <p align="center" style="right:103%;">
-      <a href="https://www.seejonesengineer.com/assets/CJsSoftwareEngineeringResume.24a34476.pdf" target="_blank">
+      <a href="https://www.seejonesengineer.com/CJsSoftwareEngineeringResume.pdf" target="_blank">
          <img align="center" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CJ's Resume"  />
       </a>  
       <a href="https://www.linkedin.com/in/cjones1827/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="CJ"s LinkedIn" />
       </a>
       <a href="mailto:cj@seejonesengineer.com" target="blank">
-         <img align="center" src="https://img.shields.io/badge/Email-d4af37?style=for-the-badge&logo=gmail&logoColor=white" alt="CJ"s Email" />
+         <img align="center" src="https://img.shields.io/badge/Email-4b0082?style=for-the-badge&logo=gmail&logoColor=white" alt="CJ"s Email" />
       </a>
-       <a href="https://www.tiktok.com/@seejonesengineer" target="blank">
+       <!-- <a href="https://www.tiktok.com/@seejonesengineer" target="blank">
          <img align="center" src="https://img.shields.io/badge/Tiktok-00f2ea?style=for-the-badge&logo=TikTok&logoColor=white" alt="CJ"s TikTok" />
       </a>
       <a href="https://www.instagram.com/seejonesengineer/" target="blank">
@@ -28,7 +28,7 @@
       </a> 
       <a href="https://www.youtube.com/channel/UCIgDLvCc7d6pX1LrhgwLZMw" target="blank">
          <img align="center" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="CJ"s Youtube" />
-      </a> 
+      </a>  -->
       <a href="https://www.seejonesengineer.com/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=white" alt="CJ"s Portfolio"/>
       </a>
@@ -36,28 +36,28 @@
 </div>
 <hr>
 
-<!-- PROFICIENT LANGUAGES -->
+<!-- PROFICIENT LANGUAGES
 <h4 align="center">Proficient Languages</h4>
 <div  align="center" >
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>  
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
 </div>
-<hr>
+<hr> -->
 
  <!-- Github Stats & Activity -->
  <h2 align="center"> Github Stats & Activity </h2>
- <div align='center'>
-<!-- <p align='center' display='flex' justify-content='space-between'>
+ <!-- <div align='center'>
+<p align='center' display='flex' justify-content='space-between'>
   <a href="https://github.com/cjones-87"> <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cjones-87&custom_title=CJ's%20Github%20Stats&card_width=100&show_icons=true&line_height=40&count_private=true&theme=midnight-purple" alt="CJ's GitHub Stats" /> 
   </a> 
 <a href="https://github.com/cjones-87">
@@ -66,16 +66,22 @@
 <a href="https://github.com/cjones-87">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cjones-87&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=midnight-purple" alt=`CJ's Github Streak`/>
 </a>
-</p>  
-</div>
+<!-- </p>  
+</div> -->
 <hr>
 
+<!-- Profile Views -->
+<br>
+
+![](https://komarev.com/ghpvc/?username=cjones-87&color=4b0082&style=for-the-badge&label=PROFILE+VISITORS)
+
+<hr>
 <!-- Codewars Activity -->
-<div align="center" >
+<!-- <div align="center" >
   <h2>Codewars Data Structure & Algorithm Activity</h2>
   <img src="https://www.codewars.com/users/cjones-87/badges/large" />
 </div>
-<hr>
+<hr> -->
 
 <!-- Spotify -->
 
@@ -86,10 +92,6 @@
 
 </div>
 <hr>
-
-<!-- Profile Views -->
-
-![](https://komarev.com/ghpvc/?username=cjones-87&color=4b0082&style=for-the-badge&label=PROFILE+VISITORS)
 
 <!-- FOOTER -->
 
