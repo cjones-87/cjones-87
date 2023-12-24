@@ -34,7 +34,7 @@
       </a>
   </p>
 </div>
-<hr>
+<!-- <hr> -->
 
 <!-- PROFICIENT LANGUAGES
 <h4 align="center">Proficient Languages</h4>
@@ -55,7 +55,7 @@
 <hr> -->
 
  <!-- Github Stats & Activity -->
- <h2 align="center"> Github Stats & Activity </h2>
+ <!-- <h2 align="center"> Github Stats & Activity </h2> -->
  <!-- <div align='center'>
 <p align='center' display='flex' justify-content='space-between'>
   <a href="https://github.com/cjones-87"> <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cjones-87&custom_title=CJ's%20Github%20Stats&card_width=100&show_icons=true&line_height=40&count_private=true&theme=midnight-purple" alt="CJ's GitHub Stats" /> 
@@ -63,19 +63,19 @@
 <a href="https://github.com/cjones-87">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjones-87&custom_title=CJ's%20Most%20Used%20Languages&theme=midnight-purple" alt=`CJ's Most Used Languages`/>
 </a> -->
-<a href="https://github.com/cjones-87">
+<!-- <a href="https://github.com/cjones-87">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cjones-87&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=midnight-purple" alt=`CJ's Github Streak`/>
-</a>
+</a> -->
 <!-- </p>  
 </div> -->
-<hr>
+<!-- <hr> -->
 
 <!-- Profile Views -->
-<br>
+<!-- <br> -->
 
-![](https://komarev.com/ghpvc/?username=cjones-87&color=4b0082&style=for-the-badge&label=PROFILE+VISITORS)
+<!-- ![](https://komarev.com/ghpvc/?username=cjones-87&color=4b0082&style=for-the-badge&label=PROFILE+VISITORS) -->
 
-<hr>
+<!-- <hr> -->
 <!-- Codewars Activity -->
 <!-- <div align="center" >
   <h2>Codewars Data Structure & Algorithm Activity</h2>
@@ -85,13 +85,13 @@
 
 <!-- Spotify -->
 
-<h2 align="center">Vibing on Spotify</h2>
+<!-- <h2 align="center">Vibing on Spotify</h2> -->
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7jngi162r9ulpop20gz5hdyoo&cover_image=true&theme=default&bar_color=7d3ccd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=7jngi162r9ulpop20gz5hdyoo&redirect=true)
 
 </div>
-<hr>
+<!-- <hr> -->
 
 <!-- FOOTER -->
 
