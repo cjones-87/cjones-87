@@ -8,7 +8,7 @@
 <div>
    <p align="center">
    <p align="center" style="right:103%;">
-      <a href="https://www.seejonesengineer.com/01CJsSWEPortfolioResume.pdf" target="_blank">
+      <a href="https://www.seejonesengineer.com/CJ_Jones_II_Portfolio_SWE_2024.pdf" target="_blank">
          <img align="center" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CJ's Resume"  />
       </a>  
       <a href="https://www.linkedin.com/in/cjones1827/" target="_blank">
